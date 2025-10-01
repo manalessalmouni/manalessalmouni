@@ -46,7 +46,6 @@ What I Do: I specialise in implementing AI solutions that make systems smarter a
 - 🌱 **AgroBot** – Smart agriculture app for optimal crop selection  
 - 🤖 **SymptoBot** – AI-powered assistant for medical diagnosis (Deep Learning + Image Processing)  
 - 👁 **OCR Vision** – License plate & SIM recognition system with YOLO + OCR  
-- 🏎 **Autonomous F1 Car** – Reinforcement Learning + Computer Vision for self-driving race simulation
 - 📊 **Student Admission Analyzer** – Data analysis tool to identify students eligible for entry into a professional license program  
 - 📄 **Recruiter Assistant** – Web app to compare CVs with job descriptions using NLP  
 - 🌐 **Stock Management System** – PHP + MySQL web platform for inventory management (Agro Juice Processing)  
