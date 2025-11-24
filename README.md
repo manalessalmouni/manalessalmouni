@@ -1,6 +1,6 @@
 # About me
 
-Hello! I'm **Manal Essalmouni**, a **AI Engineer & Data Scientist ** passionate about transforming data into intelligent solutions.  
+Hello! I'm **Manal Essalmouni**, an **AI Engineer & Data Scientist** passionate about transforming data into intelligent solutions.  
 
 What I Do: I specialise in implementing AI solutions that make systems smarter and decisions faster.  
 
