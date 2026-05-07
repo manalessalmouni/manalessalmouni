@@ -1,19 +1,45 @@
-# About me
+# About Me
 
-Hello! I'm **Manal Essalmouni**, an **AI Engineer & Data Scientist** passionate about transforming data into intelligent solutions.  
+Hello! I'm **Manal Essalmouni**, an **AI Engineer, Data Scientist** passionate about building intelligent systems, autonomous AI agents, and data-driven applications that solve real-world problems.
 
-What I Do: I specialise in implementing AI solutions that make systems smarter and decisions faster.  
+I enjoy transforming complex data into smart solutions through Machine Learning, Deep Learning, NLP, and Agentic AI systems. I’m especially interested in designing AI workflows, multi-agent systems, automation pipelines, and interactive AI applications.
 
-🌐 **Let’s Connect:** I’m always open to collaborations, AI projects, and data challenges.  
+I also have a strong passion for the **automotive industry**, especially the integration of AI, intelligent automation, and data analysis in engineering and industrial environments. I enjoy developing AI tools and autonomous agents capable of optimizing technical workflows, engineering document analysis, production processes, and decision-making systems in the automotive field.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/manal-essalmouni)  
+## 🚀 What I Do
+
+- 🤖 Develop AI agents and intelligent automation systems  
+- 🚗 Build AI tools for automotive and industrial engineering workflows  
+- 📊 Create end-to-end Data Science & Machine Learning solutions  
+- 🧠 Design NLP, Computer Vision, and Deep Learning applications  
+- ⚡ Develop scalable APIs and AI backends  
+- 📈 Build interactive dashboards and analytical platforms  
+- 🔍 Automate complex technical and data-driven processes  
+- 🏭 Work on AI-powered automation solutions for industrial environments  
+
+## 💼 Professional Interests & Experience
+
+- AI Agents for Engineering & Automotive Processes  
+- Intelligent Technical Document Analysis  
+- Workflow Automation & Process Optimization  
+- Industrial Data Analysis & Monitoring Systems  
+- AI-powered Engineering Assistants  
+- Multi-Agent Systems for Technical Operations  
+- Automotive AI Tools & Smart Manufacturing Solutions  
+- Intelligent Reporting & Decision Support Systems  
+
+🌐 **Let’s Connect:**  
+I’m always open to collaborations, innovative AI projects, hackathons, and data challenges.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/manal-essalmouni)
+
 📧 **manalessalmouni@gmail.com**
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
-<!-- Data / AI -->
+## 🤖 AI / Data Science / Agentic AI
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="Pandas" />
@@ -21,35 +47,44 @@ What I Do: I specialise in implementing AI solutions that make systems smarter a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="32" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-0C4B8C?style=flat&logo=python&logoColor=white" height="22" alt="Seaborn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="32" alt="OpenCV" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="32" alt="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="32" alt="Scikit-learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" alt="TensorFlow" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="32" alt="LangChain" />
 </p>
 
-<!-- Web / Deploy -->
+## 🌐 Backend / APIs / Web
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
 </p>
 
-### 🗄️ Data / Databases
+## 📊 Dashboards / Visualization
+<p>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="32" alt="Streamlit" />
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="32" alt="Plotly" />
+  <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" height="32" alt="Dash" />
+</p>
+
+## 🗄️ Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 💡 Interests
 
-- 💧 **Water Potability Prediction** – ML models for wastewater analysis at ONEE  
-- 🌱 **AgroBot** – Smart agriculture app for optimal crop selection  
-- 🤖 **SymptoBot** – AI-powered assistant for medical diagnosis (Deep Learning + Image Processing)  
-- 👁 **OCR Vision** – License plate & SIM recognition system with YOLO + OCR  
-- 📊 **Student Admission Analyzer** – Data analysis tool to identify students eligible for entry into a professional license program  
-- 📄 **Recruiter Assistant** – Web app to compare CVs with job descriptions using NLP  
-- 🌐 **Stock Management System** – PHP + MySQL web platform for inventory management (Agro Juice Processing)  
-
-
----
-
+- Agentic AI & Autonomous Systems  
+- Automotive AI & Smart Manufacturing  
+- Machine Learning & Deep Learning  
+- NLP & LLM Applications  
+- Industrial Automation & Intelligent Workflows  
+- Data Engineering & Analytics  
+- Computer Vision  
+- AI Automation & Multi-Agent Systems  
+- Intelligent Dashboards & Visualization  
+- AI for Engineering & Technical Operations  
