@@ -17,16 +17,6 @@ I also have a strong passion for the **automotive industry**, especially the int
 - 🔍 Automate complex technical and data-driven processes  
 - 🏭 Work on AI-powered automation solutions for industrial environments  
 
-## 💼 Professional Interests & Experience
-
-- AI Agents for Engineering & Automotive Processes  
-- Intelligent Technical Document Analysis  
-- Workflow Automation & Process Optimization  
-- Industrial Data Analysis & Monitoring Systems  
-- AI-powered Engineering Assistants  
-- Multi-Agent Systems for Technical Operations  
-- Automotive AI Tools & Smart Manufacturing Solutions  
-- Intelligent Reporting & Decision Support Systems  
 
 🌐 **Let’s Connect:**  
 I’m always open to collaborations, innovative AI projects, hackathons, and data challenges.
