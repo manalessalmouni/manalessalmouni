@@ -66,6 +66,7 @@ I’m always open to collaborations, innovative AI projects, hackathons, and dat
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="32" alt="Streamlit" />
   <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="32" alt="Plotly" />
   <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" height="32" alt="Dash" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="32" alt="Power BI" />
 </p>
 
 ## 🗄️ Databases
@@ -87,4 +88,5 @@ I’m always open to collaborations, innovative AI projects, hackathons, and dat
 - Computer Vision  
 - AI Automation & Multi-Agent Systems  
 - Intelligent Dashboards & Visualization  
+- Power BI & Business Intelligence  
 - AI for Engineering & Technical Operations  
